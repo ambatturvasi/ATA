@@ -2,10 +2,10 @@ import { StatusBar } from 'expo-status-bar';
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 
-export default function ServiceScreen() {
+export default function TravelScreen() {
   return (
     <View style={styles.container}>
-      <Text>Service Screen</Text>
+      <Text>Travel Screen</Text>
       <StatusBar style="auto" />
     </View>
   );
